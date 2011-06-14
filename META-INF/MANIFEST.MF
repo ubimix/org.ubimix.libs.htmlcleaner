@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-Version: 2.2.0
+Bundle-Name: org.htmlcleaner
+Bundle-ManifestVersion: 2
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0
+Bundle-Description: HTML Cleaner package.
+Bundle-SymbolicName: org.htmlcleaner
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Export-Package: org.htmlcleaner;version="2.2.0"

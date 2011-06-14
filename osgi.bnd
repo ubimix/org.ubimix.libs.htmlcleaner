@@ -1,0 +1,7 @@
+#-----------------------------------------------------------------
+# Use this file to add customized Bnd instructions for the bundle
+#-----------------------------------------------------------------
+Include-Resource: {maven-resources}
+Bundle-ClassPath: .
+# Split-Package: merge-first
+Import-Package: org.jdom.*;resolution:=optional, org.apache.tools.ant.*;resolution:=optional, *
